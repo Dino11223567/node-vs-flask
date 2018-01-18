@@ -12,5 +12,9 @@ two while my dog look painfully bored.
 This was purely meant for my own edification. However, I hope it can help others that are looking to make the jump one way or
 the other. I've commented out the similarities - in my mind - on the server file for the Node app.
 
+## Running the Node server
+
+## Running the Flask server
+
 ## Comments/Issues
 I'd love to make this collaborative. If I've completely screwed something up, or you see something that I don't, let me know!
