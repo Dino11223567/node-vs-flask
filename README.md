@@ -6,7 +6,7 @@ Quick comaprison of a basic node application vs. a basic flask application.
 I've developed a number of different Flask apps in the last year. When I started learning JS and Python, I ended up
 going down the rabbit hole of Flask...and haven't ever really wanted to go back. That being said, after being "snowed-in"
 for three days, I decided to wall myself off in the home-office and revisit Node. This repo is the product of comparing the
-two while my dog look painfully bored.
+two while my dog looked painfully bored.
 
 ## Usage
 This was purely meant for my own edification. However, I hope it can help others that are looking to make the jump one way or
