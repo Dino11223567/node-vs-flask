@@ -13,8 +13,14 @@ This was purely meant for my own edification. However, I hope it can help others
 the other. I've commented out the similarities - in my mind - on the server file for the Node app.
 
 ## Running the Node server
+You can find how to set up the Node server below.
+
+### Setting up the environment
 
 ## Running the Flask server
+You can find how to set up the Flask server below.
+
+### Setting up the environment
 
 ## Comments/Issues
 I'd love to make this collaborative. If I've completely screwed something up, or you see something that I don't, let me know!
