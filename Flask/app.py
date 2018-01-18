@@ -12,6 +12,7 @@ def index():
 
     # Variables here are passed via **locals() below.
     name = 'your_name'
+    print(f'{name} did it...')
     return render_template('index.html', **locals())
 
 # Start the server
