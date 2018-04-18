@@ -20,10 +20,10 @@ You can find how to set up the Node server below.
 ## Running the Flask server
 You can find how to set up the Flask server below.
 
-'''bash
+```bash
 git clone https://github.com/robertjdominguez/node-vs-flask/
 python app.py
-'''
+```
 
 ### Setting up the environment
 
