@@ -16,9 +16,9 @@ the other. I've commented out the similarities - in my mind - on the server file
 You can find how to set up the Node server below.
 
 ```bash
-git clone https://github.com/robertjdominguez/node-vs-flask/
-cd Node
-run app.js
+$ git clone https://github.com/robertjdominguez/node-vs-flask/
+$ cd Node
+$ run app.js
 ```
 
 ### Setting up the environment
@@ -27,9 +27,9 @@ run app.js
 You can find how to set up the Flask server below.
 
 ```bash
-git clone https://github.com/robertjdominguez/node-vs-flask/
-cd Flask
-python app.py
+$ git clone https://github.com/robertjdominguez/node-vs-flask/
+$ cd Flask
+$ python app.py
 ```
 
 ### Setting up the environment
