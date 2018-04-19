@@ -17,7 +17,7 @@ You can find how to set up the Node server below.
 
 ```bash
 $ git clone https://github.com/robertjdominguez/node-vs-flask/
-$ cd Node
+$ cd node-vs-flask/Node
 $ run app.js
 ```
 
@@ -28,7 +28,7 @@ You can find how to set up the Flask server below.
 
 ```bash
 $ git clone https://github.com/robertjdominguez/node-vs-flask/
-$ cd Flask
+$ cd node-vs-flask/Flask
 $ python app.py
 ```
 
